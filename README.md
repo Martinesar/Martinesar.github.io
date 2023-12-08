@@ -9,10 +9,10 @@ Springboard Data Analytics Bootcamp
 
 ## Data Analytics / Data Science Certificates
 
-### Google Data Analytics Specialization, Google
-### Data Analysis using Python, Wharton University of Pennsylvania
-### Introduction to Spreadsheet and Models, Wharton University of Pennsylvania
-### SQL for Data Science, UC Davis
+- Google Data Analytics Specialization, Google
+- Data Analysis using Python, Wharton University of Pennsylvania
+- Introduction to Spreadsheet and Models, Wharton University of Pennsylvania
+- SQL for Data Science, UC Davis
 
 
 ### Projects
