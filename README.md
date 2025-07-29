@@ -1,7 +1,7 @@
-# Data Analyst / Finance Supply Chain
+# Supply Chain Analyst
 
 ## Technical Skills
-Excel, Tableau, SQL, Python
+Excel,Google Sheets, Tableau, Looker, SQL, Python
 
 
 ## Education
